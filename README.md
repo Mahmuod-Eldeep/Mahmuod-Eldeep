@@ -3,7 +3,7 @@
   <img src="https://github.com/SamirPaulb/SamirPaulb/blob/main/assets/rainbow-superthin.webp" alt="Typing SVG" />
 </p>
 
-صص
+
 <p align="center">
   <img src="https://github.com/Mahmuod-Eldeep/project-x/blob/main/Programming%20Stickers%20for%20Sale.jpg" width="450" alt="Programming Stickers for Sale" />
 </p>
@@ -35,10 +35,8 @@
   <img src="https://github.com/Mahmuod-Eldeep/project-x/blob/main/Profile.jpg" width="200" style="border-radius: 50%;" />
 </p>
 
-<h2 align="center">About Me 👨‍💻</h2>
-<p align="center">
-  <img src="https://github.com/SamirPaulb/SamirPaulb/blob/main/assets/rainbow-superthin.webp" alt="Typing SVG" />
-</p>
+## <h2 align="center">About Me 👨‍💻</h2>
+
 🔧 **Backend Developer | Laravel Expert | API Architect**
 
 I'm a passionate backend developer with a strong focus on building robust, secure, and scalable web applications using **Laravel** and **PHP**. I specialize in crafting RESTful APIs, managing complex databases, and optimizing server-side logic to deliver high-performance backends that meet business goals.
