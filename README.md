@@ -5,7 +5,7 @@
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=F05340&center=true&vCenter=true&width=600&lines=Laravel+Backend+Developer;RESTful+API+Expert;MySQL+%7C+PHP+%7C+Docker;Clean+%26+Secure+Code;Scalable+Backend+Applications" alt="Typing SVG" />
+  <img src="[https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=F05340&center=true&vCenter=true&width=600&lines=Laravel+Backend+Developer;RESTful+API+Expert;MySQL+%7C+PHP+%7C+Docker;Clean+%26+Secure+Code;Scalable+Backend+Applications](https://github.com/SamirPaulb/SamirPaulb/blob/main/assets/rainbow-superthin.webp)" alt="Typing SVG" />
 </p>
 
 ---
@@ -117,3 +117,8 @@ Remember, coding is not just about writing lines of code, it's about solving rea
 ---
 
 ### Keep coding, keep learning, and keep growing! 🚀
+
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Trilokia/Trilokia/379277808c61ef204768a61bbc5d25bc7798ccf1/bottom_header.svg" alt="Typing SVG" />
+</p>
