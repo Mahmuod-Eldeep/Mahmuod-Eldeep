@@ -5,7 +5,7 @@
 </p>
 
 <p align="center">
-  <img src="[https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=F05340&center=true&vCenter=true&width=600&lines=Laravel+Backend+Developer;RESTful+API+Expert;MySQL+%7C+PHP+%7C+Docker;Clean+%26+Secure+Code;Scalable+Backend+Applications](https://github.com/SamirPaulb/SamirPaulb/blob/main/assets/rainbow-superthin.webp)" alt="Typing SVG" />
+  <img src="https://github.com/SamirPaulb/SamirPaulb/blob/main/assets/rainbow-superthin.webp" alt="Typing SVG" />
 </p>
 
 ---
