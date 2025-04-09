@@ -1,8 +1,4 @@
 <h1 align="center">Hi, I'm Mahmuod Ahmed 👋</h1>
-<p align="center">
-  <img src="https://github.com/SamirPaulb/SamirPaulb/blob/main/assets/rainbow-superthin.webp" alt="Typing SVG" />
-</p>
-
 
 <p align="center">
   <img src="https://github.com/Mahmuod-Eldeep/project-x/blob/main/Programming%20Stickers%20for%20Sale.jpg" width="450" alt="Programming Stickers for Sale" />
@@ -34,8 +30,7 @@
 <p align="center">
   <img src="https://github.com/Mahmuod-Eldeep/project-x/blob/main/Profile.jpg" width="200" style="border-radius: 50%;" />
 </p>
-
-## <h2 align="center">About Me 👨‍💻</h2>
+<h2 align="center">About Me 👨‍💻</h2>
 
 🔧 **Backend Developer | Laravel Expert | API Architect**
 
@@ -60,7 +55,9 @@ I'm a passionate backend developer with a strong focus on building robust, secur
 ---
 
 ## 📊 My Achievements & Skills
-
+<p align="center">
+  <img src="https://github.com/SamirPaulb/SamirPaulb/blob/main/assets/rainbow-superthin.webp" alt="Typing SVG" />
+</p>
 <p align="center">
   <img src="https://img.shields.io/badge/Experience-5+_Years-4c8fbb?style=for-the-badge&logo=python&logoColor=white" alt="Experience" />
   <img src="https://img.shields.io/badge/Projects-50+_Projects-ff9f00?style=for-the-badge&logo=github&logoColor=white" alt="Projects" />
