@@ -95,7 +95,7 @@ I'm a passionate backend developer with a strong focus on building robust, secur
 
 
 ## 🚀 The Journey to Success Starts with a Single Line of Code
-<p align="center"> <img src=https://github.com/Mahmuod-Eldeep/project-x/blob/main/download.jpg" width="450" alt="Programming Inspiration" /> </p>
+<p align="center"> <img src=https://github.com/Mahmuod-Eldeep/project-x/blob/main/download.jpg width="450" alt="Programming Inspiration" /> </p>
 💡 My Advice to Aspiring Developers:
 The road to becoming a great developer is never a straight line. It requires continuous learning, facing challenges, and building meaningful projects. Every bug you fix and every new technology you master is a step closer to becoming the developer you aspire to be. Never stop coding, never stop improving!
 
